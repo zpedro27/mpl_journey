@@ -1,0 +1,17 @@
+[project]
+name = "matplotlib-journey"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cartopy>=0.24.1",
+    "drawarrow>=0.1.0",
+    "geopandas>=1.0.1",
+    "highlight-text>=0.2",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "pyfonts>=0.0.2",
+    "pypalettes>=0.1.5",
+    "seaborn>=0.13.2",
+]
